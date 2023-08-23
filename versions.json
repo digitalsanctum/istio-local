@@ -1,0 +1,8 @@
+{
+  "cert_manager": "1.8.0",
+  "istio": "1.15.6",
+  "kubernetes": "1.23",
+  "kubernetes_gateway": "0.6.1",
+  "kubevela": "1.7.5",
+  "metallb": "0.13.9"
+}

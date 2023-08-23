@@ -1,0 +1,9 @@
+name: test1
+services:
+  webservice-test1:
+    image: nginx
+    type: webservice
+    properties:
+    ports:
+     - port: 80
+       expose: true
